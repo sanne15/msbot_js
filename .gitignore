@@ -1,0 +1,17 @@
+# dependencies
+# node_modules
+
+# production
+# build
+
+.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+node_modules
+!node_modules/debug
+!node_modules/debug/src
+!node_modules/debug/src/common.js
+

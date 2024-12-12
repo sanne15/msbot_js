@@ -1,0 +1,50 @@
+{"level":"error","message":"퀴즈 자동 종료 중 오류 발생: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T08:48:48.914Z"}
+{"level":"error","message":"오류 메시지 편집 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T08:48:49.229Z"}
+{"level":"error","message":"퀴즈 자동 종료 중 오류 발생: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T08:57:06.708Z"}
+{"level":"error","message":"오류 메시지 편집 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T08:57:07.001Z"}
+{"level":"error","message":"TypeError: interaction.guild.channels.cache.filter(...).toArray is not a function","timestamp":"2024-12-12T09:16:55.824Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T09:31:01.228Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T09:33:43.293Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T09:37:14.510Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T09:41:34.524Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:04:27.324Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:07:14.659Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:14:51.314Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:18:55.359Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:30:17.582Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:35:21.392Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:38:40.341Z"}
+{"level":"error","message":"버튼 상호작용 중 오류 발생: DiscordAPIError[10062]: Unknown interaction","timestamp":"2024-12-12T10:39:54.350Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:42:25.294Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T10:42:29.538Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T10:42:29.539Z"}
+{"level":"error","message":"DiscordAPIError[50035]: Invalid Form Body\nembeds[0][LIST_ITEM_VALUE_REQUIRED]: List item values of ModelType are required","timestamp":"2024-12-12T10:42:40.044Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:52:30.018Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T10:53:30.886Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T10:53:30.887Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:05:05.007Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:06:29.628Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:06:29.629Z"}
+{"level":"error","message":"DiscordAPIError[50035]: Invalid Form Body\nembeds[0][LIST_ITEM_VALUE_REQUIRED]: List item values of ModelType are required","timestamp":"2024-12-12T11:06:35.527Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:10:39.997Z"}
+{"level":"error","message":"TypeError: Assignment to constant variable.","timestamp":"2024-12-12T11:10:54.937Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:11:11.124Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:11:11.125Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:23:05.220Z"}
+{"level":"error","message":"TypeError: Assignment to constant variable.","timestamp":"2024-12-12T11:23:14.786Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:25:02.676Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:25:53.584Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:25:53.585Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:27:55.475Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:28:26.387Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:28:26.388Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:31:13.359Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:31:37.876Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:31:37.877Z"}
+{"level":"error","message":"DiscordAPIError[50035]: Invalid Form Body\nembeds[0][LIST_ITEM_VALUE_REQUIRED]: List item values of ModelType are required","timestamp":"2024-12-12T11:31:45.042Z"}
+{"level":"error","message":"메시지를 찾을 수 없음: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:47:42.310Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'user')","timestamp":"2024-12-12T12:00:46.397Z"}
+{"level":"error","message":"게임 종료 시 버튼 비활성화 실패: ReferenceError: startMessage is not defined","timestamp":"2024-12-12T12:10:21.841Z"}
+{"level":"error","message":"게임 종료 시 버튼 비활성화 실패: ReferenceError: startemb is not defined","timestamp":"2024-12-12T12:13:20.926Z"}
+{"level":"error","message":"DiscordAPIError[10002]: Unknown Application","timestamp":"2024-12-12T12:28:37.691Z"}
+{"level":"error","message":"DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T12:29:50.471Z"}

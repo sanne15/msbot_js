@@ -1,0 +1,880 @@
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T18:36:43.554Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T18:36:43.901Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T18:36:44.695Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T18:38:35.647Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T18:38:35.988Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T18:38:36.989Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-10T18:38:57.507Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - ping","timestamp":"2024-12-10T18:38:57.507Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T18:41:27.072Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T18:41:27.426Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T18:41:28.211Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-10T18:41:38.950Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-10T18:41:38.950Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-10T18:41:42.493Z"}
+{"level":"info","message":"Button interaction: Custom ID - Moscow","timestamp":"2024-12-10T18:41:42.494Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-10T18:41:45.094Z"}
+{"level":"info","message":"Button interaction: Custom ID - end_quiz","timestamp":"2024-12-10T18:41:45.095Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T18:44:09.904Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T18:44:10.248Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T18:44:11.040Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T18:44:50.261Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T18:44:50.629Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T18:44:51.465Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T18:49:09.253Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T18:49:09.593Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T18:49:10.439Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T18:50:49.526Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T18:50:49.913Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T18:50:50.657Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T18:54:31.751Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T18:54:32.126Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T18:54:33.024Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T19:05:27.579Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T19:05:27.941Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T19:05:28.921Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T19:19:50.586Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T19:19:50.935Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T19:19:51.716Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T19:23:00.097Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T19:23:00.443Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T19:23:01.266Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T19:24:08.781Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T19:24:09.192Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T19:24:10.014Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T19:26:44.147Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T19:26:44.496Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T19:26:45.354Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T19:27:43.532Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T19:27:43.863Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T19:27:44.877Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-10T19:32:42.300Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-10T19:32:42.740Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-10T19:32:43.557Z"}
+{"level":"info","message":"server started on PORT 8001","timestamp":"2024-12-11T13:29:11.526Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-11T13:29:11.900Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-11T13:29:12.888Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-11T15:09:57.768Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-11T15:09:58.114Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-11T15:09:58.910Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-11T15:19:07.319Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-11T15:19:07.684Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-11T15:19:08.665Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T06:01:10.701Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T06:01:11.050Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T06:01:11.882Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T07:26:04.417Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T07:26:04.808Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T07:26:05.862Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T07:41:12.794Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T07:41:13.173Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T07:41:13.959Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T07:41:23.382Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T07:41:23.383Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T07:41:26.101Z"}
+{"level":"info","message":"Button interaction: Custom ID - Kuala Lumpur","timestamp":"2024-12-12T07:41:26.102Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T07:42:52.847Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T07:42:52.847Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T07:43:01.199Z"}
+{"level":"info","message":"Button interaction: Custom ID - Bern","timestamp":"2024-12-12T07:43:01.199Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T07:43:04.269Z"}
+{"level":"info","message":"Button interaction: Custom ID - Buenos Aires","timestamp":"2024-12-12T07:43:04.269Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T07:43:13.489Z"}
+{"level":"info","message":"Button interaction: Custom ID - end_quiz","timestamp":"2024-12-12T07:43:13.489Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T08:10:33.918Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T08:10:35.054Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T08:10:35.614Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T08:10:35.615Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T08:10:35.689Z"}
+{"level":"info","message":"Disconnected from MongoDB","timestamp":"2024-12-12T08:11:50.179Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T08:14:40.828Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T08:14:42.189Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T08:14:42.777Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T08:14:42.777Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T08:14:42.848Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:14:51.555Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T08:14:51.556Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T08:14:54.199Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T08:22:34.439Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T08:22:34.801Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T08:22:35.694Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T08:22:36.264Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T08:22:36.264Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T08:22:36.341Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:22:51.515Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T08:22:51.516Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T08:22:55.090Z"}
+{"level":"info","message":"Button interaction: Custom ID - Baghdad","timestamp":"2024-12-12T08:22:55.091Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T08:23:05.783Z"}
+{"level":"info","message":"Button interaction: Custom ID - Bern","timestamp":"2024-12-12T08:23:05.784Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:23:15.845Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T08:23:15.846Z"}
+{"level":"info","message":"Disconnected from MongoDB","timestamp":"2024-12-12T08:30:22.545Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T08:30:45.399Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T08:30:45.753Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T08:30:46.607Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T08:30:47.160Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T08:30:47.160Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T08:30:47.237Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:30:56.912Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T08:30:56.912Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T08:31:06.069Z"}
+{"level":"info","message":"Button interaction: Custom ID - Tehran","timestamp":"2024-12-12T08:31:06.069Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T08:39:29.551Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T08:39:29.879Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T08:39:30.926Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T08:39:31.491Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T08:39:31.491Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T08:39:31.564Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T08:43:32.471Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T08:43:32.782Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T08:43:33.694Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T08:43:34.378Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T08:43:34.379Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T08:43:34.456Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T08:46:18.365Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T08:46:18.802Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T08:46:19.533Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T08:46:20.052Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T08:46:20.052Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T08:46:20.127Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:46:27.795Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - ping","timestamp":"2024-12-12T08:46:27.796Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:46:33.195Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T08:47:28.838Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T08:47:29.167Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T08:47:29.999Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T08:47:30.516Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T08:47:30.517Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T08:47:30.591Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:47:32.806Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - ping","timestamp":"2024-12-12T08:47:32.807Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:47:37.683Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - help","timestamp":"2024-12-12T08:47:37.684Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:47:47.965Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T08:47:47.965Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T08:47:51.994Z"}
+{"level":"info","message":"Button interaction: Custom ID - Nairobi:1733993267965","timestamp":"2024-12-12T08:47:51.995Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T08:47:57.762Z"}
+{"level":"info","message":"Button interaction: Custom ID - end_quiz:1733993267965","timestamp":"2024-12-12T08:47:57.763Z"}
+{"level":"error","message":"퀴즈 자동 종료 중 오류 발생: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T08:48:48.914Z"}
+{"level":"error","message":"오류 메시지 편집 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T08:48:49.229Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:49:02.749Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - ping","timestamp":"2024-12-12T08:49:02.750Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:49:06.136Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T08:49:06.137Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:51:32.355Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T08:51:32.355Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T08:51:35.487Z"}
+{"level":"info","message":"Button interaction: Custom ID - Copenhagen:1733993492355","timestamp":"2024-12-12T08:51:35.488Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T08:52:03.771Z"}
+{"level":"info","message":"Button interaction: Custom ID - end_quiz:1733993492355","timestamp":"2024-12-12T08:52:03.772Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T08:53:40.287Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T08:53:40.605Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T08:53:41.643Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T08:53:42.197Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T08:53:42.197Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T08:53:42.271Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:53:45.397Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T08:54:24.130Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T08:54:24.448Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T08:54:25.342Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T08:54:25.986Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T08:54:25.986Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T08:54:26.061Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:54:27.437Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T08:54:27.438Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T08:54:33.674Z"}
+{"level":"info","message":"Button interaction: Custom ID - Naypyidaw:1733993667436","timestamp":"2024-12-12T08:54:33.674Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T08:55:53.335Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T08:55:53.653Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T08:55:54.562Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T08:55:55.084Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T08:55:55.084Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T08:55:55.159Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T08:56:05.675Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T08:56:05.676Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T08:56:09.498Z"}
+{"level":"info","message":"Button interaction: Custom ID - Washington, D.C.:1733993765674","timestamp":"2024-12-12T08:56:09.498Z"}
+{"level":"error","message":"퀴즈 자동 종료 중 오류 발생: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T08:57:06.708Z"}
+{"level":"error","message":"오류 메시지 편집 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T08:57:07.001Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:03:05.722Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T09:03:05.723Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T09:03:07.468Z"}
+{"level":"info","message":"Button interaction: Custom ID - end_quiz1733994185722:1733994185722","timestamp":"2024-12-12T09:03:07.468Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T09:11:26.807Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T09:11:27.161Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T09:11:27.989Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T09:11:28.551Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T09:11:28.551Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T09:11:28.623Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:11:30.839Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T09:11:30.839Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T09:11:33.824Z"}
+{"level":"info","message":"Button interaction: Custom ID - Buenos Aires:1733994690837","timestamp":"2024-12-12T09:11:33.824Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T09:13:15.164Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T09:13:15.488Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T09:13:16.342Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T09:13:16.965Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T09:13:16.966Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T09:13:17.044Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:13:21.087Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T09:13:21.087Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T09:13:25.232Z"}
+{"level":"info","message":"Button interaction: Custom ID - Riyadh:1733994801086","timestamp":"2024-12-12T09:13:25.233Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T09:13:28.487Z"}
+{"level":"info","message":"Button interaction: Custom ID - Ottawa:1733994801086","timestamp":"2024-12-12T09:13:28.488Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T09:13:31.392Z"}
+{"level":"info","message":"Button interaction: Custom ID - Sofia:1733994801086","timestamp":"2024-12-12T09:13:31.393Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T09:13:34.410Z"}
+{"level":"info","message":"Button interaction: Custom ID - end_quiz:1733994801086","timestamp":"2024-12-12T09:13:34.410Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:13:46.922Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T09:13:46.922Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T09:16:39.966Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T09:16:40.310Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T09:16:41.087Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T09:16:41.693Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T09:16:41.694Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T09:16:41.768Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:16:42.672Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T09:16:42.672Z"}
+{"level":"error","message":"TypeError: interaction.guild.channels.cache.filter(...).toArray is not a function","timestamp":"2024-12-12T09:16:55.824Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T09:19:11.373Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T09:19:11.721Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T09:19:12.716Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T09:19:13.261Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T09:19:13.262Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T09:19:13.337Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:19:26.545Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T09:19:26.546Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T09:22:32.228Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T09:22:32.537Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T09:22:33.446Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T09:22:34.072Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T09:22:34.073Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T09:22:34.151Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:22:49.218Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T09:22:49.219Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T09:24:50.194Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T09:24:50.640Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T09:24:51.293Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T09:24:51.925Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T09:24:51.926Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T09:24:52.004Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:24:56.840Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T09:24:56.841Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T09:30:43.372Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T09:30:43.708Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T09:30:44.757Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T09:30:45.334Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T09:30:45.335Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T09:30:45.409Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:30:49.424Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T09:30:49.425Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T09:31:01.228Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T09:32:47.459Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T09:32:47.828Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T09:32:48.740Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T09:32:49.293Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T09:32:49.294Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T09:32:49.370Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:33:10.861Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T09:33:10.862Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:33:14.740Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T09:33:14.741Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T09:33:17.686Z"}
+{"level":"info","message":"Button interaction: Custom ID - Copenhagen:1733995994740","timestamp":"2024-12-12T09:33:17.687Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T09:33:23.682Z"}
+{"level":"info","message":"Button interaction: Custom ID - Phnom Penh:1733995990860","timestamp":"2024-12-12T09:33:23.682Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:33:31.675Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T09:33:31.675Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T09:33:43.293Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T09:36:56.431Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T09:36:56.742Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T09:36:57.677Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T09:36:58.267Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T09:36:58.267Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T09:36:58.343Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:37:02.857Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T09:37:02.857Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T09:37:14.510Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T09:40:49.100Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T09:40:49.480Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T09:40:50.284Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T09:40:50.849Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T09:40:50.850Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T09:40:50.921Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:41:00.331Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T09:41:00.332Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:41:03.490Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T09:41:03.491Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:41:05.130Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T09:41:05.130Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T09:41:08.228Z"}
+{"level":"info","message":"Button interaction: Custom ID - Tokyo:1733996465129","timestamp":"2024-12-12T09:41:08.228Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T09:41:12.229Z"}
+{"level":"info","message":"Button interaction: Custom ID - Zagreb:1733996463490","timestamp":"2024-12-12T09:41:12.230Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T09:41:15.704Z"}
+{"level":"info","message":"Button interaction: Custom ID - New Delhi:1733996460330","timestamp":"2024-12-12T09:41:15.705Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T09:41:22.343Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T09:41:22.344Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T09:41:34.524Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T10:04:05.227Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T10:04:05.572Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T10:04:06.589Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T10:04:07.203Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T10:04:07.204Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T10:04:07.281Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T10:04:15.695Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T10:04:15.696Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:04:27.324Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T10:06:58.081Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T10:06:58.409Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T10:06:59.489Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T10:07:00.076Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T10:07:00.077Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T10:07:00.152Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T10:07:02.999Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T10:07:03.000Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:07:14.659Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T10:14:32.746Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T10:14:33.130Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T10:14:33.974Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T10:14:34.614Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T10:14:34.615Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T10:14:34.692Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T10:14:39.577Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T10:14:39.577Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:14:51.314Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T10:17:55.219Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T10:17:55.557Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T10:17:56.445Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T10:17:57.021Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T10:17:57.022Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T10:17:57.099Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T10:18:07.630Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T10:18:07.631Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T10:18:10.355Z"}
+{"level":"info","message":"Button interaction: Custom ID - Ottawa:1733998687629","timestamp":"2024-12-12T10:18:10.356Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T10:18:16.085Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T10:18:16.085Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T10:18:18.554Z"}
+{"level":"info","message":"Button interaction: Custom ID - Bucharest:1733998696084","timestamp":"2024-12-12T10:18:18.554Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T10:18:20.893Z"}
+{"level":"info","message":"Button interaction: Custom ID - Tehran:1733998696084","timestamp":"2024-12-12T10:18:20.893Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T10:18:32.176Z"}
+{"level":"info","message":"Button interaction: Custom ID - end_quiz:1733998687629","timestamp":"2024-12-12T10:18:32.176Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T10:18:35.224Z"}
+{"level":"info","message":"Button interaction: Custom ID - end_quiz:1733998696084","timestamp":"2024-12-12T10:18:35.224Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T10:18:43.722Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T10:18:43.722Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:18:55.359Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:18:58.235Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:02.757Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:19:02.759Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:03.144Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:13.009Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:19:13.010Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:13.450Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:18.054Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:19:18.054Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:18.588Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:26.412Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:30.670Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:19:30.671Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:31.034Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:35.718Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:19:35.718Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:36.100Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:43.134Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:45.496Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:19:45.496Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:45.834Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:47.394Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:19:47.395Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:47.758Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:49.891Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:19:49.891Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:50.256Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:52.318Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:19:52.319Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:19:52.626Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:00.052Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:08.924Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:20:08.925Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:09.324Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:16.741Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:20.528Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:20:20.529Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:27.391Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:30.545Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:20:30.546Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:40.618Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:20:40.619Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:41.056Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:43.774Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:20:43.775Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:44.152Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:45.994Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:20:45.995Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:46.305Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:56.577Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:20:56.578Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:56.930Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:57.843Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:20:57.843Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:20:58.207Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:01.732Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:21:01.733Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:02.108Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:12.010Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:21:12.010Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:12.368Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:13.203Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:21:13.204Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:13.548Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:14.966Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:21:14.968Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:15.304Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:18.785Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:21:18.785Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:19.145Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:26.238Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:28.130Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:21:28.130Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:28.694Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:34.996Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:39.042Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:21:39.043Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:46.022Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:48.403Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:21:48.403Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:48.858Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:51.214Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:21:51.215Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:21:51.802Z"}
+{"level":"info","message":"채널 kkutu에서 충분한 메시지를 찾지 못했습니다. 다시 시도합니다.","timestamp":"2024-12-12T10:22:02.401Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:04.743Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:08.350Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:08.350Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:16.258Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:20.775Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:20.776Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:21.127Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:22.041Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:22.041Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:22.401Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:25.027Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:25.028Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:25.429Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:34.123Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:35.565Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:35.566Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:35.949Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:38.525Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:38.525Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:38.961Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:39.758Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:39.759Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:40.106Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:40.979Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:40.979Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:41.331Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:42.207Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:42.208Z"}
+{"level":"info","message":"채널 그림에서 충분한 메시지를 찾지 못했습니다. 다시 시도합니다.","timestamp":"2024-12-12T10:22:48.271Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:49.560Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:51.472Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:51.472Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:51.963Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:53.171Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:53.171Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:53.502Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:54.291Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:54.292Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:54.617Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:56.021Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:56.022Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:56.361Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:58.876Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:22:58.877Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:22:59.287Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:08.997Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:08.997Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:09.378Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:13.079Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:13.080Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:21.725Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:21.726Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:22.063Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:24.581Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:24.582Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:24.941Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:26.003Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:26.003Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:26.341Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:27.313Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:27.314Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:27.687Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:28.735Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:28.736Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:36.872Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:36.873Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:37.222Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:38.103Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:38.104Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:38.632Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:41.647Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:41.647Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:42.050Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:43.663Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:43.664Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:44.004Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:52.255Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:23:59.787Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:23:59.787Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:00.203Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:01.822Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:24:01.823Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:02.167Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:08.964Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:13.252Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:24:13.253Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:13.655Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:14.467Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:24:14.468Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:14.847Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:17.560Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:24:17.560Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:17.967Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:25.794Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:27.736Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:24:27.737Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:36.528Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:24:36.528Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:24:36.876Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T10:29:56.097Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T10:29:56.427Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T10:29:57.261Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T10:29:57.779Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T10:29:57.780Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T10:29:57.851Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T10:30:04.547Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T10:30:04.548Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:30:17.582Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:30:21.089Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:30:29.882Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:30:29.883Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:30:30.312Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:30:37.646Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:30:41.517Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:30:41.518Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:30:51.960Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:30:51.961Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:30:52.333Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:30:54.100Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:30:54.101Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:30:54.458Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:30:56.914Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:30:56.915Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:30:57.318Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:31:05.612Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:31:22.184Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:31:29.091Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:31:29.092Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:31:29.443Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T10:35:03.639Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T10:35:03.960Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T10:35:04.838Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T10:35:05.426Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T10:35:05.426Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T10:35:05.503Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T10:35:09.734Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T10:35:09.735Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:35:21.392Z"}
+{"level":"info","message":"Message received: [object Object]","timestamp":"2024-12-12T10:35:25.224Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T10:35:31.052Z"}
+{"level":"info","message":"Button interaction: Custom ID - join_midgame","timestamp":"2024-12-12T10:35:31.053Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T10:38:23.668Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T10:38:23.989Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T10:38:24.898Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T10:38:25.488Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T10:38:25.488Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T10:38:25.566Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T10:38:28.688Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T10:38:28.688Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:38:40.341Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:38:51.607Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:39:02.368Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:39:04.479Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:39:05.954Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:39:10.014Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:39:36.825Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:39:39.650Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:39:43.571Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T10:39:54.101Z"}
+{"level":"info","message":"Button interaction: Custom ID - force_end","timestamp":"2024-12-12T10:39:54.101Z"}
+{"level":"error","message":"버튼 상호작용 중 오류 발생: DiscordAPIError[10062]: Unknown interaction","timestamp":"2024-12-12T10:39:54.350Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T10:42:03.580Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T10:42:03.934Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T10:42:04.677Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T10:42:05.254Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T10:42:05.254Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T10:42:05.329Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T10:42:13.363Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T10:42:13.364Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:42:25.294Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T10:42:28.632Z"}
+{"level":"info","message":"Button interaction: Custom ID - force_end","timestamp":"2024-12-12T10:42:28.633Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T10:42:29.538Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T10:42:29.539Z"}
+{"level":"error","message":"DiscordAPIError[50035]: Invalid Form Body\nembeds[0][LIST_ITEM_VALUE_REQUIRED]: List item values of ModelType are required","timestamp":"2024-12-12T10:42:40.044Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T10:52:08.237Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T10:52:08.574Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T10:52:09.909Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T10:52:10.472Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T10:52:10.473Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T10:52:10.547Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T10:52:18.405Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T10:52:18.406Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T10:52:30.018Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:52:40.705Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:52:55.869Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:53:11.887Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T10:53:24.406Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T10:53:29.499Z"}
+{"level":"info","message":"Button interaction: Custom ID - force_end","timestamp":"2024-12-12T10:53:29.499Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T10:53:30.886Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T10:53:30.887Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T11:04:12.651Z"}
+{"level":"info","message":"Button interaction: Custom ID - force_end","timestamp":"2024-12-12T11:04:12.652Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T11:04:42.963Z"}
+{"level":"info","message":"Button interaction: Custom ID - join_midgame","timestamp":"2024-12-12T11:04:42.964Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T11:04:53.327Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T11:04:53.328Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:05:05.007Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:05:15.173Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:05:27.572Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:05:41.934Z"}
+{"level":"info","message":"채널 그림에서 충분한 메시지를 찾지 못했습니다. 다시 시도합니다.","timestamp":"2024-12-12T11:05:54.470Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:06:00.187Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:06:11.067Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:06:25.730Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T11:06:28.679Z"}
+{"level":"info","message":"Button interaction: Custom ID - force_end","timestamp":"2024-12-12T11:06:28.679Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:06:29.628Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:06:29.629Z"}
+{"level":"error","message":"DiscordAPIError[50035]: Invalid Form Body\nembeds[0][LIST_ITEM_VALUE_REQUIRED]: List item values of ModelType are required","timestamp":"2024-12-12T11:06:35.527Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T11:10:19.753Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T11:10:20.109Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T11:10:20.965Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T11:10:21.510Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T11:10:21.510Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T11:10:21.587Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T11:10:28.362Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T11:10:28.362Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:10:39.997Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:10:54.936Z"}
+{"level":"error","message":"TypeError: Assignment to constant variable.","timestamp":"2024-12-12T11:10:54.937Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T11:11:10.206Z"}
+{"level":"info","message":"Button interaction: Custom ID - force_end","timestamp":"2024-12-12T11:11:10.206Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:11:11.124Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:11:11.125Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T11:12:37.982Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - capital","timestamp":"2024-12-12T11:12:37.983Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T11:12:45.748Z"}
+{"level":"info","message":"Button interaction: Custom ID - Naypyidaw:1734001957982","timestamp":"2024-12-12T11:12:45.749Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T11:12:47.977Z"}
+{"level":"info","message":"Button interaction: Custom ID - Islamabad:1734001957982","timestamp":"2024-12-12T11:12:47.978Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T11:12:52.167Z"}
+{"level":"info","message":"Button interaction: Custom ID - end_quiz:1734001957982","timestamp":"2024-12-12T11:12:52.167Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T11:22:53.543Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T11:22:53.543Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:23:05.220Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:23:14.147Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:23:14.786Z"}
+{"level":"error","message":"TypeError: Assignment to constant variable.","timestamp":"2024-12-12T11:23:14.786Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T11:24:39.681Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T11:24:40.040Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T11:24:40.832Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T11:24:41.444Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T11:24:41.445Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T11:24:41.522Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T11:24:50.419Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T11:24:50.420Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:25:02.676Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:25:09.426Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:25:12.856Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:25:13.544Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:25:22.655Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:25:27.993Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:25:29.185Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:25:30.521Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:25:38.868Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:25:43.917Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:25:45.175Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:25:47.344Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T11:25:52.342Z"}
+{"level":"info","message":"Button interaction: Custom ID - force_end","timestamp":"2024-12-12T11:25:52.342Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:25:53.584Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:25:53.585Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T11:27:41.024Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T11:27:41.353Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T11:27:42.253Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T11:27:42.811Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T11:27:42.812Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T11:27:42.887Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T11:27:43.774Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T11:27:43.775Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:27:55.475Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:28:07.827Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:28:09.930Z"}
+{"level":"info","message":"Collected message: [object Object]","timestamp":"2024-12-12T11:28:20.086Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:28:20.720Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T11:28:25.472Z"}
+{"level":"info","message":"Button interaction: Custom ID - force_end","timestamp":"2024-12-12T11:28:25.473Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:28:26.387Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:28:26.388Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T11:30:54.859Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T11:30:55.199Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T11:30:56.056Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T11:30:56.653Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T11:30:56.653Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T11:30:56.732Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T11:31:01.625Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T11:31:01.626Z"}
+{"level":"error","message":"메시지 수정 실패: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:31:13.359Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:31:27.496Z"}
+{"level":"info","message":"Interaction received: Type - 3, User - prasiona","timestamp":"2024-12-12T11:31:36.897Z"}
+{"level":"info","message":"Button interaction: Custom ID - force_end","timestamp":"2024-12-12T11:31:36.897Z"}
+{"level":"error","message":"강제종료 처리 중 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:31:37.876Z"}
+{"level":"error","message":"오류 응답 중 추가 오류: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.","timestamp":"2024-12-12T11:31:37.877Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:31:44.477Z"}
+{"level":"error","message":"DiscordAPIError[50035]: Invalid Form Body\nembeds[0][LIST_ITEM_VALUE_REQUIRED]: List item values of ModelType are required","timestamp":"2024-12-12T11:31:45.042Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T11:42:59.310Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T11:42:59.745Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T11:43:00.582Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T11:43:01.225Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T11:43:01.226Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T11:43:01.304Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T11:46:31.643Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T11:46:32.002Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T11:46:33.986Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T11:46:34.629Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T11:46:34.630Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T11:46:34.707Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T11:47:25.153Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T11:47:25.154Z"}
+{"level":"error","message":"메시지를 찾을 수 없음: DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T11:47:42.310Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T11:51:45.463Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T11:51:45.764Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T11:51:46.727Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T11:51:47.332Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T11:51:47.332Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T11:51:47.413Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T11:51:55.564Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T11:51:55.565Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:52:15.806Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:52:25.652Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:52:42.237Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:52:54.647Z"}
+{"level":"info","message":"Players: [object Set]","timestamp":"2024-12-12T11:53:04.587Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T11:58:30.083Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T11:58:30.759Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T11:58:31.327Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T11:58:31.880Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T11:58:31.881Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T11:58:31.958Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T11:58:35.755Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T11:58:35.755Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T11:58:46.266Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T11:58:46.267Z"}
+{"level":"info","message":"Players: <@541492834172403713>","timestamp":"2024-12-12T11:59:11.909Z"}
+{"level":"info","message":"Player: <@541492834172403713>","timestamp":"2024-12-12T11:59:11.912Z"}
+{"level":"info","message":"Member: <@541492834172403713>","timestamp":"2024-12-12T11:59:11.913Z"}
+{"level":"info","message":"Players: <@541492834172403713>","timestamp":"2024-12-12T11:59:21.039Z"}
+{"level":"info","message":"Player: <@541492834172403713>","timestamp":"2024-12-12T11:59:21.040Z"}
+{"level":"info","message":"Member: <@541492834172403713>","timestamp":"2024-12-12T11:59:21.041Z"}
+{"level":"info","message":"Players: <@541492834172403713>","timestamp":"2024-12-12T11:59:39.103Z"}
+{"level":"info","message":"Player: <@541492834172403713>","timestamp":"2024-12-12T11:59:39.105Z"}
+{"level":"info","message":"Member: <@541492834172403713>","timestamp":"2024-12-12T11:59:39.105Z"}
+{"level":"info","message":"Players: <@541492834172403713>","timestamp":"2024-12-12T11:59:54.746Z"}
+{"level":"info","message":"Player: <@541492834172403713>","timestamp":"2024-12-12T11:59:54.747Z"}
+{"level":"info","message":"Member: <@541492834172403713>","timestamp":"2024-12-12T11:59:54.748Z"}
+{"level":"info","message":"Players: <@541492834172403713>","timestamp":"2024-12-12T12:00:04.604Z"}
+{"level":"info","message":"Player: <@541492834172403713>","timestamp":"2024-12-12T12:00:04.605Z"}
+{"level":"info","message":"Member: <@541492834172403713>","timestamp":"2024-12-12T12:00:04.606Z"}
+{"level":"info","message":"Players: <@541492834172403713>","timestamp":"2024-12-12T12:00:22.545Z"}
+{"level":"info","message":"Player: <@541492834172403713>","timestamp":"2024-12-12T12:00:22.546Z"}
+{"level":"info","message":"Member: <@541492834172403713>","timestamp":"2024-12-12T12:00:22.547Z"}
+{"level":"info","message":"Players: <@541492834172403713>","timestamp":"2024-12-12T12:00:31.501Z"}
+{"level":"info","message":"Player: <@541492834172403713>","timestamp":"2024-12-12T12:00:31.502Z"}
+{"level":"info","message":"Member: <@541492834172403713>","timestamp":"2024-12-12T12:00:31.503Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'user')","timestamp":"2024-12-12T12:00:46.397Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T12:04:22.897Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T12:04:23.263Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T12:04:24.281Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T12:04:24.907Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T12:04:24.908Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T12:04:24.985Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T12:04:47.448Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T12:04:47.448Z"}
+{"level":"info","message":"채널 친구추가에서 충분한 메시지를 찾지 못했습니다. 다시 시도합니다.","timestamp":"2024-12-12T12:05:07.943Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T12:09:30.135Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T12:09:30.479Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T12:09:31.346Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T12:09:31.990Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T12:09:31.990Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T12:09:32.067Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T12:10:01.476Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T12:10:01.476Z"}
+{"level":"error","message":"게임 종료 시 버튼 비활성화 실패: ReferenceError: startMessage is not defined","timestamp":"2024-12-12T12:10:21.841Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T12:12:44.755Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T12:12:45.079Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T12:12:46.248Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T12:12:46.834Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T12:12:46.834Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T12:12:46.910Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T12:12:55.049Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T12:12:55.049Z"}
+{"level":"error","message":"게임 종료 시 버튼 비활성화 실패: ReferenceError: startemb is not defined","timestamp":"2024-12-12T12:13:20.926Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T12:16:01.167Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T12:16:01.525Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T12:16:02.821Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T12:16:03.443Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T12:16:03.443Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T12:16:03.520Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T12:16:17.819Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T12:16:17.819Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T12:16:57.733Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T12:16:58.128Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T12:16:59.077Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T12:16:59.619Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T12:16:59.620Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T12:16:59.693Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T12:17:03.011Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T12:17:03.012Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T12:17:08.937Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T12:17:08.938Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T12:17:12.189Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T12:18:22.607Z"}
+{"level":"info","message":"Successfully reloaded application (/) commands.","timestamp":"2024-12-12T12:18:22.916Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T12:18:23.724Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T12:18:24.343Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T12:18:24.343Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T12:18:24.418Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T12:18:31.108Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T12:18:31.109Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T12:18:34.490Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T12:18:34.491Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T12:18:59.963Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T12:18:59.963Z"}
+{"level":"info","message":"server started on PORT 8002","timestamp":"2024-12-12T12:28:37.376Z"}
+{"level":"error","message":"DiscordAPIError[10002]: Unknown Application","timestamp":"2024-12-12T12:28:37.691Z"}
+{"level":"info","message":"Discord bot is ready!","timestamp":"2024-12-12T12:28:38.639Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-12-12T12:28:39.243Z"}
+{"level":"info","message":"Checking DB Connection...","timestamp":"2024-12-12T12:28:39.244Z"}
+{"level":"info","message":"MongoDB connection established!","timestamp":"2024-12-12T12:28:39.318Z"}
+{"level":"info","message":"Interaction received: Type - 2, User - prasiona","timestamp":"2024-12-12T12:29:09.421Z"}
+{"level":"info","message":"Command interaction by prasiona: Command - text맞추기","timestamp":"2024-12-12T12:29:09.421Z"}
+{"level":"error","message":"DiscordAPIError[10008]: Unknown Message","timestamp":"2024-12-12T12:29:50.471Z"}

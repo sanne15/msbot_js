@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=M+PLUS+Rounded+1c&family=Noto+Serif+KR:wght@200..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+  font-family: 'Poppins', 'Noto Serif KR', sans-serif;
+  scrollbar-width: thin;
+  scrollbar-color: #7289da #2c2f33;
+}
+
+select {
+  font-family: 'Poppins', 'Noto Serif KR', sans-serif;
+}
+
+button {
+  font-family: 'Poppins', 'Noto Serif KR', sans-serif;
+}
+
+.App-Admin {
+  background-color: #667299;
+}
+
+.admin-panel {
+  background-color: #2c2f33;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1, h2 {
+  color: #7289da;
+}
+
+.status-box, .channel-box, .message-box, .info-box {
+  background-color: #23272a;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  transition: transform 0.2s;
+}
+
+.status-box:hover, .channel-box:hover, .message-box:hover, .info-box:hover {
+  transform: translateY(-5px);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 5px 0;
+  position: relative;
+}
+
+.select-menu {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #2c2f33;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.select-menu:hover {
+  background-color: #3a3f47;
+}
+
+.refresh-button, .sort-button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #7289da;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.refresh-button:hover, .sort-button:hover {
+  background-color: #5a6fa3;
+}
+
+.message-item {
+  position: relative;
+}
+
+.message-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.2s;
+  border-radius: 5px;
+}
+
+.message-item:hover .message-overlay {
+  opacity: 1;
+}
+
+.guild-name {
+  position: relative;
+  display: inline-block;
+}
+
+.guild-id-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.2s;
+  border-radius: 5px;
+}
+
+.guild-name:hover .guild-id-overlay {
+  opacity: 1;
+}
+
+
+@media (pointer: fine) {
+  ::-webkit-scrollbar-thumb {
+    background: #7289da;
+    border: 0px solid #2c2f33;
+    border-radius: 12px 12px 12px 12px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #5a6fa3;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #667299;
+  }
+
+  ::-webkit-scrollbar-button {
+    height: 0;
+    width: 0;
+  }
+
+  ::-webkit-scrollbar, ::-webkit-scrollbar-corner {
+    background: transparent;
+    height: 12px;
+    width: 12px;
+  }
+}

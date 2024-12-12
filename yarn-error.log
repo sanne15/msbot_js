@@ -1,0 +1,48 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-scripots
+
+PATH: 
+  C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Bandizip\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd\;C:\Program Files\Git\bin\;C:\ProgramData\chocolatey\bin;C:\tools\Manim\Scripts;C:\Program Files\nodejs\;C:\Program Files\PostgreSQL\16\bin;C:\MinGW\bin;C:\Program Files\CMake\bin;C:\Program Files (x86)\Common Files\Propellerhead Software\ReWire\;C:\Program Files\Common Files\Propellerhead Software\ReWire\;C:\Program Files (x86)\Yarn\bin\;c:\Users\mattm\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Ruby33-x64\bin;C:\Ruby32-x64\bin;C:\Users\mattm\AppData\Roaming\local\bin;C:\Users\mattm\AppData\Local\Microsoft\WindowsApps;C:\Users\mattm\AppData\Local\Programs\Microsoft VS Code\bin;C:\Python310\Scripts;C:\Users\mattm\.dotnet\tools;C:\Users\mattm\AppData\Roaming\npm;C:\Users\mattm\AppData\Local\GitHubDesktop\bin;C:\Users\mattm\AppData\Local\Yarn\bin;C:\MinGW\bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  18.18.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/react-scripots: Not found
+      at params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66096:18)
+      at self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140748:22)
+      at Request.emit (node:events:517:28)
+      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141720:10)
+      at Request.emit (node:events:517:28)
+      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141642:12)
+      at Object.onceWrapper (node:events:631:28)
+      at IncomingMessage.emit (node:events:529:35)
+      at endReadableNT (node:internal/streams/readable:1368:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+npm manifest: 
+  {
+      "scripts": {
+          "start": "node ./web.js",
+          "build": "react-scripts build",
+          "test": "react-scripts test",
+          "eject": "react-scripts eject"
+      },
+      "dependencies": {
+          "discord.js": "^14.16.3",
+          "ejs": "^3.1.10",
+          "express": "^4.21.0"
+      }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  
